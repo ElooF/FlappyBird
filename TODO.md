@@ -1,0 +1,2 @@
+- [x] Update style.css to add wing elements and flapping animation to the bird
+- [x] Update script.js to adjust physics constants (GRAVITY to 0.4, JUMP_POWER to -8, PIPE_SPEED to 2)
